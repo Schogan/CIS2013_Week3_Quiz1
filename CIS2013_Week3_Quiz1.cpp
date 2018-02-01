@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 	int first_number = 0;
 	int second_number = 0;
-	char action;
+	char action = 'c';
 	bool keep_running = true;
 	
 	// While keeps program running as long as bool keep_running remains true
