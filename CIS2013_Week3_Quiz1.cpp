@@ -3,8 +3,8 @@
 using namespace std;
 
 int main(){
-	int first_number = 1;
-	int second_number = 1;
+	int first_number = 0;
+	int second_number = 0;
 	char action;
 	bool keep_running = true;
 	
